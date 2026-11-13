@@ -5,7 +5,7 @@ Student record search (by Student ID) comparing three data structures in C++:
 
 - Course: 21CS201J - Data Structures and Algorithms (CLA-2, Task 3)
 - Institution: SRM Institute of Science and Technology, Tiruchirappalli
-- Author (per source header): Syed Saalim, RA2511026050149
+- Author (per source header): Bhavanish Roshan G, RA2511026050154
 
 ## Overview
 
